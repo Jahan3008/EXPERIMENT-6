@@ -1,6 +1,4 @@
 # EXPERIMENT-6
-## NAME: Dheena Darshini Karthik Dheepan
-## REGNO: 212223240030
 ## AIM:To write a Python program for checking Palindrome and to write test cases for ir. 
 
 ## ALGORITHM
